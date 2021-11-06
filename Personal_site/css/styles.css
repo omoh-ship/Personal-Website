@@ -1,0 +1,41 @@
+a {
+  color: #27496D;
+  padding: 5px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
+}
+
+body{
+  background-color:#DAE1E7;
+  margin:auto;
+  padding: 2%;
+}
+hr{
+  /* NOTE: background-color: white; */
+  border-color: #00909E;
+  border-style: dotted none none;
+  border-width: 10px;
+  width: 5%;
+}
+h1{
+  color: #142850;
+}
+h3{
+  color: #27496D;
+}
+
+
+th{
+  /* text-align: left; */
+  vertical-align: nowrap;
+}
+
+.bottom-container {
+  background-color: #00909E;
+  margin-top: 60px;
+  text-align: center;
+  padding: 50px 0 250px;
+}
